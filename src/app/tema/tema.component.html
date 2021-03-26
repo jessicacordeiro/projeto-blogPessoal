@@ -45,20 +45,19 @@
                     <th scope="col" class="text-right">Modificações</th> 
                   </tr>
                 </thead>
+
                 <tbody>
-                  <tr *ngFor='let tema of listaTema'>
-                    <th>{{tema.id}}</th>
-                    <td>{{tema.descricao}}</td>
+                  <tr *ngFor='let item of listaTema'>
+                    <th>{{item.id}}</th>
+                    <td>{{item.descricao}}</td>
                     <td class="d-flex justify-content-end">
-                      <button class="btn btn-info mr-3">Editar</button>
-                      <button class="btn btn-danger">Apagar</button>
+                      <button class="btn btn-info mr-3" [routerLink]="['/tema-edit', item.id]" >Editar</button>
+                      <button class="btn btn-danger" [routerLink]="['/tema-delete', item.id]" >Apagar</button>
                     </td>
                   </tr>
-                
                 </tbody>
               </table>
+
         </div>
     </div>
-
-
 </div>
