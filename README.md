@@ -29,3 +29,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Link para a Documentação do Blog Pessoal
 
 (https://jessicacordeiro.github.io/doc-blogPessoal.v2/modules/AppModule.html)
+
+## Link do site online no heroku (porém ainda está para ser atualizado com futuras implementações)
+
+https://sweetiediary.herokuapp.com/#/entrar
