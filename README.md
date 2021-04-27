@@ -1,10 +1,7 @@
 <h1 align="center">
-    <img src="https://i.imgur.com/2kOLPJY.png" />
+    <img src="https://i.imgur.com/2kOLPJY.png" /><br><br>
+    🚧 Em andamento... 🚧
 </h1>
- 
- <h2 align="center">
-  🚧 Em andamento... 🚧
- </h2>
  
  <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/jessicacordeiro/projeto-blogPessoal?color=%2304D361&style=flat">
