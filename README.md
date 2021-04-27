@@ -54,7 +54,6 @@
 	- Dicas
 	- Etc. 
 
-
 ## 🎨 Layout
 
 O layout da aplicação está disponível no Canva. 
@@ -125,9 +124,7 @@ Então você pode ter acesso a plataforma, acessando o link -> [SWEETIEDIARY-SIT
 ## 👩‍💻 Autora
 
  <img style="border-radius: 50%;" src="https://i.imgur.com/2H6ftNW.jpg" width="100px;" alt=""/>
- <br />
- <sub><b>Jessica Cordeiro (Jess)</b></sub>
- <br />
+ <b>Jessica Cordeiro (Jess)</b>
  
 [![Linkedin Badge](https://img.shields.io/badge/-Jessica-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessica-a-cordeiro/)](https://www.linkedin.com/in/jessica-a-cordeiro/) 
 [![Gmail Badge](https://img.shields.io/badge/-jessica.cordeiro121@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jessica.cordeiro121@gmail.com)](mailto:jessica.cordeiro121@gmail.com)
