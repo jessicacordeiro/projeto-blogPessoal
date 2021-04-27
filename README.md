@@ -16,10 +16,6 @@
 <h1 align="center">
     <img src="https://i.imgur.com/2kOLPJY.png" />
 </h1>
-  
-  <h2 align="center"> 
-  ✨ Blog Pessoal (SWEETIE DIARY) - Generation Brasil
- </h2>
  
  <h3 align="center">
   🚧 Em andamento... 🚧
