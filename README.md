@@ -15,11 +15,11 @@
 
 <h1 align="center">
     <img src="https://i.imgur.com/2kOLPJY.png" />
-    <br>✨ Blog Pessoal (SWEETIE DIARY) - Generation Brasil
+    <br>✨ Blog Pessoal (SWEETIE DIARY) - Generation Brasil<br>
 </h1>
   
   <h2 align="center"> 
-	🚧 Em andamento... 🚧
+	🚧 Em andamento... 🚧<br>
  </h2>
     
 
