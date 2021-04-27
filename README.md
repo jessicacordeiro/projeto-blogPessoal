@@ -1,20 +1,26 @@
 <p align="center">
-	
- ![capablog](https://i.imgur.com/2kOLPJY.png)
-  
-  <h1 align="center"> ✨ Blog Pessoal (SWEETIE DIARY) - Generation Brasil </h1>
-  
-  <h4 align="center"> 
-	🚧 Em andamento... 🚧
- </h4>
- 
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/jessicacordeiro/projeto-blogPessoal?color=%2304D361&style=flat">
 
-[![GitHub issues](https://img.shields.io/github/issues/jessicacordeiro/projeto-blogPessoal?logo=GitHub)](https://github.com/jessicacordeiro/blogPessoal/issues)
-[![GitHub license](https://img.shields.io/github/license/jessicacordeiro/projeto-blogPessoal?color=3&logo=Github)](https://github.com/jessicacordeiro/projeto-blogPessoal)
-[![GitHub forks](https://img.shields.io/github/forks/jessicacordeiro/projeto-blogPessoal?logo=GitHub)](https://github.com/jessicacordeiro/projeto-blogPessoal/network)
-[![GitHub stars](https://img.shields.io/github/stars/jessicacordeiro/projeto-blogPessoal?logo=github)](https://github.com/jessicacordeiro/projeto-blogPessoal/stargazers)
-![GitHub last commit](https://img.shields.io/github/last-commit/jessicacordeiro/projeto-blogPessoal)
-    <img alt="Feito pela Jéssica Cordeiro" src="https://img.shields.io/badge/feito%20por-JessicaCordeiro-%237519C1">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/jessicacordeiro/projeto-blogPessoal?style=flat">
+  
+  <a href="https://github.com/jessicacordeiro/projeto-blogPessoal/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jessicacordeiro/projeto-blogPessoal?style=flat">
+  </a>
+    
+   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?style=flat">
+   
+   <img alt="Feito pela Jéssica Cordeiro" src="https://img.shields.io/badge/feito%20por-JessicaCordeiro-%237519C1">
+  
+</p>
+
+<h1 align="center">
+    <img src="https://i.imgur.com/2kOLPJY.png" />
+    <br>✨ Blog Pessoal (SWEETIE DIARY) - Generation Brasil
+</h1>
+  
+  <h2 align="center"> 
+	🚧 Em andamento... 🚧
+ </h2>
     
 
 <p align="center">
