@@ -1,4 +1,12 @@
-<p align="center">
+<h1 align="center">
+    <img src="https://i.imgur.com/2kOLPJY.png" />
+</h1>
+ 
+ <h2 align="center">
+  🚧 Em andamento... 🚧
+ </h2>
+ 
+ <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/jessicacordeiro/projeto-blogPessoal?color=%2304D361&style=flat">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/jessicacordeiro/projeto-blogPessoal?style=flat">
@@ -12,28 +20,7 @@
    <img alt="Feito pela Jéssica Cordeiro" src="https://img.shields.io/badge/feito%20por-JessicaCordeiro-%237519C1">
   
 </p>
-
-<h1 align="center">
-    <img src="https://i.imgur.com/2kOLPJY.png" />
-</h1>
- 
- <h2 align="center">
-  🚧 Em andamento... 🚧
- </h2>
     
-
-<p align="center">
- <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-funcionalidades">Funcionalidades</a> •
- <a href="#-layout">Layout</a> •
- <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#-como-executar-o-projeto">Como executar</a> • 
- <a href="#-link-da-documentacao">Documentação</a> • 
- <a href="#-deploy-na-plataforma-herokuapp">Deploy</a> •
- <a href="#-futuras-implementacoes">Implementações</a> • 
- <a href="#-autora">Autora</a> • 
- <a href="#user-content--licença">Licença</a>
-</p>
 
 ## 📄 Sobre o Projeto
 <p align="start"> 
