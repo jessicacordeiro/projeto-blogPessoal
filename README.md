@@ -17,9 +17,9 @@
     <img src="https://i.imgur.com/2kOLPJY.png" />
 </h1>
  
- <h3 align="center">
+ <h2 align="center">
   🚧 Em andamento... 🚧
- </h3>
+ </h2>
     
 
 <p align="center">
