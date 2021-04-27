@@ -66,9 +66,6 @@ Clique aqui ao lado para visualizar -> [SWEETIEDIARY](https://www.canva.com/desi
 As seguintes ferramentas foram usadas na construção do projeto:
 
 1. Backend - Utilizando a linguagem JAVA e o [Spring Boot](https://start.spring.io/) (pasta server) 
-
-### Aplicações
-
 As seguintes aplicações e bibliotecas foram usadas no projeto:
 
 - API Rest
@@ -76,9 +73,6 @@ As seguintes aplicações e bibliotecas foram usadas no projeto:
 - Swagger
 
 2. Frontend - Utilizando [Angular CLI](https://github.com/angular/angular-cli) version 11.2.4. (ainda em desenvolvimento)
-
-### Aplicações
-
 As seguintes aplicações e bibliotecas foram usadas no projeto:
 
 - ng g component
@@ -96,7 +90,8 @@ Então você pode ter acesso a plataforma, acessando o link -> [SWEETIEDIARY-SIT
 ## 🛠 Futuras implementações
 
 - [ ] Colocar fotos dentro do Cards
-- [ ] Ter a possibilidade de deixar privado algumas postagens.
+- [ ] Ter a possibilidade de deixar privado algumas postagens
+- [ ] Responsividade
 
 ## 👨‍💻 Contribuidores
 
